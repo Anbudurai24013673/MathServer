@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:03/05/2025
+## Date:14/05/2025
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -32,7 +32,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 math.html
 {% load static %}
 <html>
@@ -121,7 +121,7 @@ urlpatterns = [
 ]  
 
 
-
+```
 ## SERVER SIDE PROCESSING:
 
 ![alt text](<Screenshot (67).png>)
